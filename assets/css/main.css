@@ -2231,8 +2231,8 @@ input, select, textarea {
 				}
 
 		.wrapper.style3 {
-			background: #fff;
-			color: inherit;
+			background: #d1d1d1;
+			color: black;
 		}
 
 		.wrapper.style4 {
@@ -2663,6 +2663,7 @@ input, select, textarea {
 			header.special {
 				padding-top: 5.5em;
 				margin-bottom: 4em;
+				color: black;
 			}
 
 	}
